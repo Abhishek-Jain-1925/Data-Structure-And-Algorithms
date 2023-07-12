@@ -32,7 +32,7 @@ Feel free to explore the code in your preferred programming language.
 
 To use the Data Structures and Algorithms Repository, follow these steps:
 
-1. Clone the repository to your local machine: `git clone https://github.com/Abhishek-Jain-1925/data-structures-algorithms.git`
+1. Clone the repository to your local machine: `(https://github.com/Abhishek-Jain-1925/Data-Structure-And-Algorithms.git)`
 2. Navigate to the specific directory for the data structure or algorithm you want to explore.
 3. Open the corresponding source file in your preferred programming environment (e.g., Visual Studio Code, Eclipse, or any text editor).
 4. Read through the code comments to understand the implementation details.
