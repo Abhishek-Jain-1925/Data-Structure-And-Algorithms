@@ -112,7 +112,7 @@ void DeleteFirst(PPNODE head)
 {
 	if(*head==NULL)
 	{
-		cout<<"\n Linked List is empty,Nothing to delete...Plz, Enter Some nodes First...!!"<<endl;
+		cout<<"\n Linked List is empty,Nothing to delete... Please, Enter Some nodes First...!!"<<endl;
 	}
 	else
 	{
