@@ -82,7 +82,7 @@ public class SinglyLinkedList
 			newn.data = data;
 			head = newn;
 			tail = newn;
-			System.out.println("\n Linked List Was Empty Firstly...Now Added a Node with value :'"+data+"' at First Place..!!");
+			System.out.println("\n Linked List Was Firstly Empty...Now Added a Node with value :'"+data+"' at First Place..!!");
 		}
 		else
 		{
