@@ -129,7 +129,7 @@ void DeleteFirst(PPNODE head)
 	{
 		PNODE temp = *head;
 		*head=temp->next;
-		cout<<temp->data<<" deleted SuccessFully....!!";
+		cout<<temp->data<<" Deleted SuccessFully....!!";
 		free(temp);
 	}
 }
